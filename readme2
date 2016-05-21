@@ -1,0 +1,7 @@
+I cannot figure out how to add a #include in visual c 2015.
+
+i go to the first line of the code behind the page and type "#"
+a list of preprocessor directives are presented but include is not in the list
+
+maybe i am not __truly__ at the beginning of the code, maybe just the beginning of the code for that window.  i dunno.
+
